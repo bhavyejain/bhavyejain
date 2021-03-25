@@ -37,8 +37,17 @@
 I am Bhavye Jain, an undergrad senior at Indian Institute of Technology, Roorkee. <br/>
 I love to work with embedded systems, computer networks, and "cool tech" like AR/VR ❤️
 
+<!--
 ![Bhavye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyejain&show_icons=true&count-private=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain&layout=compact)](https://github.com/bhavyejain/)
+-->
 
+<a href="https://github.com/bhavyejain/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyejain&show_icons=true&count-private=true&theme=great-gatsby" />
+</a>
+<a href="https://github.com/bhavyejain/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain&layout=compact" />
+</a>
 
 - 🔭 I’m currently working on programmable network switches and telemetry
 - 🌱 I’m currently learning P4 Language
