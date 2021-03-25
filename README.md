@@ -46,8 +46,10 @@ I love to work with embedded systems, computer networks, and "cool tech" like AR
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyejain&show_icons=true&count-private=true&theme=great-gatsby" />
 </a>
 <a href="https://github.com/bhavyejain/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyejain&layout=compact" />
 </a>
+
+<br/>
 
 - 🔭 I’m currently working on programmable network switches and telemetry
 - 🌱 I’m currently learning P4 Language
