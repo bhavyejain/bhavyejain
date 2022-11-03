@@ -34,8 +34,8 @@
 <br>
 <br>
 
-I am Bhavye Jain, an undergrad senior at Indian Institute of Technology, Roorkee. <br/>
-I love to work with embedded systems, computer networks, and "cool tech" like AR/VR ❤️
+I am Bhavye Jain, a graduate student at University of California, Santa Barbara. <br/>
+I love to work with distributed and embedded systems, computer networks, and "cool tech" like AR/VR ❤️
 
 <!--
 ![Bhavye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyejain&show_icons=true&count-private=true&theme=great-gatsby)
@@ -51,10 +51,10 @@ I love to work with embedded systems, computer networks, and "cool tech" like AR
 
 <br/>
 
-- 🔭 I’m currently working on programmable network switches and telemetry
-- 🌱 I’m currently learning P4 Language
-- 👨‍💻 My go-to programming languages are Java, C++ and Python
-- 👯 I’m looking to collaborate on P4_16 for Tofino
+- 🔭 I’m currently working on programmable network switches and mesh networks.
+- 🌱 I’m currently learning Ruby Language
+- 👨‍💻 My go-to programming languages are C++, C# and Python
+- 👯 I’m looking to collaborate on IoT and Distributed Systems
 - 📫 How to reach me: bhavyej@gmail.com
 - 😄 Pronouns: he/him/his
 
