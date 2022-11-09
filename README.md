@@ -34,8 +34,9 @@
 <br>
 <br>
 
-I am Bhavye Jain, a graduate student at University of California, Santa Barbara. <br/>
-I love to work with distributed and embedded systems, computer networks, and "cool tech" like AR/VR ❤️
+I am Bhavye Jain, a graduate student at University of California - Santa Barbara, California. <br/>
+I love to work with distributed and embedded systems, computer networks, and "cool tech" like AR/VR.
+I do not find bitwise processing of network packets boring! 🙂
 
 <!--
 ![Bhavye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyejain&show_icons=true&count-private=true&theme=great-gatsby)
