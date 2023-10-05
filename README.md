@@ -35,7 +35,7 @@
 <br>
 
 I am Bhavye Jain, a graduate student at University of California - Santa Barbara, California. <br/>
-I love to work with distributed and embedded systems, computer networks, and "cool tech" like AR/VR.
+I love to work with distributed and embedded systems, computer networks, and sometimes, "cool tech" like AR/VR.
 I do not find bitwise processing of network packets boring! 🙂
 
 <!--
@@ -52,8 +52,8 @@ I do not find bitwise processing of network packets boring! 🙂
 
 <br/>
 
-- 🔭 I’m currently working on programmable network switches and mesh networks.
-- 🌱 I’m currently learning Ruby Language
+- 🔭 I’m currently working on distributed and operating systems.
+- 🌱 I’m currently learning to build Linux file systems!
 - 👨‍💻 My go-to programming languages are C++, C# and Python
 - 👯 I’m looking to collaborate on IoT and Distributed Systems
 - 📫 How to reach me: bhavyej@gmail.com
